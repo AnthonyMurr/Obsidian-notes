@@ -1,0 +1,2 @@
+This is the beginning of my linux journey, as I learn on my way to becoming a DevOps specialist. All the notes inserted here will be stuff that I learned, used, or did throughout my career.
+Having applied to IntelCan, I used chatGPT to research the company and their workflow, so it can design a project for me to complete, as taking on daunting tasks is how I prefer to learn. You can find the Document Guide for [[INTELCAN.pdf]] here. and check the [[intelcan training roadmap]].
