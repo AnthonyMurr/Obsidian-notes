@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf77817e91bffe54",
+        "id": "e84ebf8941207e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd8b86c9583d7f4",
+            "id": "3108bcf5c147b96c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -152,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dd8b86c9583d7f4",
+  "active": "3108bcf5c147b96c",
   "lastOpenFiles": [
+    "INTELCAN Training/INTELCAN.pdf",
     "INTELCAN Training/intelcan training roadmap.md"
   ]
 }
