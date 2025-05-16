@@ -11,14 +11,12 @@
             "id": "0dd8b86c9583d7f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INTELCAN Training/intelcan training roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "INTELCAN Training/INTELCAN.pdf"
               },
-              "icon": "lucide-file",
-              "title": "intelcan training roadmap"
+              "icon": "lucide-file-text",
+              "title": "INTELCAN"
             }
           }
         ]
@@ -155,5 +153,7 @@
     }
   },
   "active": "0dd8b86c9583d7f4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "INTELCAN Training/intelcan training roadmap.md"
+  ]
 }
